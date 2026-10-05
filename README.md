@@ -19,17 +19,6 @@ Sous Windows, si python ne marche pas : py.
    Résultat attendu :
    Base initialisee : 6 livres, 3 membres.
 
-
-## Installation
-
-Commande de lancement :
-
-```python biblio.py init```
-
-Résultat attendu :
-"Base initialisee : 6 livres, 3 membres"
-
-
 ## Utilisation
 
 ```python biblio.py init```
