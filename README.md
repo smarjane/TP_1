@@ -1,5 +1,34 @@
-# biblio
+# \# Biblio
 
-gestion bibliotheque
+# phrase qui explique ce que fait le projet.
 
-lancer : python biblio.py
+# 
+
+# \## Prérequis
+
+# 
+
+# \## Installation
+
+# 
+
+# \## Utilisation
+
+# 
+
+# \## Tests
+
+# 
+
+# \## Structure du projet
+
+# 
+
+# \## Contribuer
+
+# 
+
+# \## Auteurs
+
+# 
+
