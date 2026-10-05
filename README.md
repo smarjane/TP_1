@@ -13,6 +13,7 @@ Commande de lancement :
 ```
 python biblio.py init
 ```
+
 Résultat attendu : 
 "Base initialisee : 6 livres, 3 membres"
 # 
