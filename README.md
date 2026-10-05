@@ -1,6 +1,6 @@
 # \# Biblio
 
-# phrase qui explique ce que fait le projet.
+# phrase qui explique ce que fait le projet et son titre.
 
 # 
 
