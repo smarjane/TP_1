@@ -44,10 +44,14 @@ Liste les livres non rendus depuis plus de 14 jours
 
 
 ## Tests
+lire le README attentivement et taper les commandes proposées.
 
 
 ## Structure du projet
-
+Le projet est en général réparti en 3 dossier : 
+- docs => qui contient les ADR qui recensent les décisions.
+- exercices => qui contient les exercices.
+- tests => dossier qui contient le code de test du projet.
 
 ## Contribuer
 
