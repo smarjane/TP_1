@@ -51,6 +51,13 @@ Liste les livres non rendus depuis plus de 14 jours
 
 ## Contribuer
 
+1. Ouvrez une issue, ou choisissez-en une.
+2. Créez une branche : fix/<numero>-<problème>
+3. Commitez : fix: <description du problème>
+4. Ouvrez une Pull Request avec « Closes #<numero> ».
+5. Attendez une review avant de merger.
+
+
 
 ## Auteurs
 
