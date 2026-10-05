@@ -9,7 +9,10 @@
 # 
 
 # \## Installation
-
+```
+python biblio.py init
+Base initialisee : 6 livres, 3 membres.
+```
 # 
 
 # \## Utilisation
