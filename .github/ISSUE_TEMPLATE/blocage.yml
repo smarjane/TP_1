@@ -1,0 +1,45 @@
+name: Signaler un blocage
+description: Je suis bloqué et j'ai besoin de quelqu'un pour avancer.
+title: "Bloqué : "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Un bon message de blocage dit au lecteur quoi faire. Remplissez les 5 champs.
+  - type: input
+    id: tache
+    attributes:
+      label: Tâche
+      description: Sur quoi je travaille. Mettez le numéro de l'issue ou de la PR.
+      placeholder: "#12 Corriger le double emprunt"
+    validations:
+      required: true
+  - type: textarea
+    id: blocage
+    attributes:
+      label: Blocage
+      description: Ce qui m'empêche d'avancer. Copiez le message d'erreur exact.
+    validations:
+      required: true
+  - type: textarea
+    id: essaye
+    attributes:
+      label: Ce que j'ai déjà essayé
+      description: Pour qu'on ne vous propose pas ce que vous avez déjà fait.
+    validations:
+      required: true
+  - type: textarea
+    id: besoin
+    attributes:
+      label: Ce dont j'ai besoin
+      description: Qui doit faire quoi. Mentionnez la personne avec @pseudo.
+    validations:
+      required: true
+  - type: input
+    id: echeance
+    attributes:
+      label: Échéance
+      description: Quand ça devient grave si rien ne bouge.
+      placeholder: "mardi 18h, avant le rendu"
+    validations:
+      required: true
